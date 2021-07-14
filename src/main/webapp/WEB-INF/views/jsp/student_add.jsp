@@ -63,7 +63,7 @@
         </nav>
     <div class="rab">
         <div align="center">
-            <td>клиент</td>
+            <td>группа</td>
             <select class="custom-select" name="id" >
                 <c:forEach items="${groops}" var="g"  >
                 <option  type="text"  value="${g.groop_id}">
@@ -73,15 +73,15 @@
             </select>
             <table border="0">
                 <tr>
-                    <td>Марка</td>
+                    <td>Фамилия</td>
                     <td><input type="text" name="f" value="${s.f}" /></td>
                 </tr>
                 <tr>
-                    <td>Модель</td>
+                    <td>Имя</td>
                     <td><input type="text" name="i" value="${s.i}" /></td>
                 </tr>
                 <tr>
-                    <td>Год</td>
+                    <td>Отчество</td>
                     <td><input type="text" name="o" value="${student.o}" /></td>
                 </tr>
             </table>
