@@ -2,7 +2,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Флексагон</title>
+    <title>Журнал</title>
     <meta charset="utf-8">
     <style>
         <%@include file="/WEB-INF/views/css/my.css"%>
@@ -27,6 +27,7 @@
                 <li id="linkVideos"><a href="/groops"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">просмотр список групп</font></font></a></li>
                 <li id="linkTwitter"><a href="/predmet"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">предметы</font></font></a></li>
                 <li id="linkOffer"><a href="/">справка</a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></a></li>
+                <li id="linkOffer"><a href="/inf">Обратная связь</a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></a></li>
             </ul>
 
 

@@ -3,7 +3,7 @@
 
 <html>
 <head>
-    <title>Флексагон</title>
+    <title>Журнал</title>
     <meta charset="utf-8">
     <style>
         <%@include file="/WEB-INF/views/css/my.css"%>
