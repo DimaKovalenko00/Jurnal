@@ -16,7 +16,7 @@
 
 <body >
 <div id="header">
-    <div id="title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">СТО </font></font></div>
+    <div id="title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Журнал </font></font></div>
 </div>
 <div class="dropdown">
     <button class="mainmenubtn">Главное меню</button>
